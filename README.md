@@ -110,3 +110,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 I have made the necessary changes . My name is Ronak Jha
 
 the chnages arent being made
+
+The changes are made and then are gone again something seems to be wrong with the github account
